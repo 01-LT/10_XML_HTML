@@ -1,0 +1,16 @@
+<wurzel>
+    <stamm>Firma
+        <ast>Abteilung "Buchhaltung"
+            <zweig>MA: "Lehmann"</zweig>
+        </ast>
+        <ast>Abteilung "Produktion"
+            <zweig>MA: "Breitner"</zweig>
+            <zweig>MA: "Paul"</zweig>
+            <zweig>MA: "Degen"</zweig>
+        </ast>
+        <ast>Abteilung "Vertrieb"
+            <zweig> MA: "Schulz"</zweig>
+        <zweig> MA: "Meier"</zweig>
+        </ast>
+    </stamm>
+</wurzel>
